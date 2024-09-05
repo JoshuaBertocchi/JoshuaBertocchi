@@ -18,8 +18,8 @@ Sou um programador Python júnior apaixonado por tecnologia e programação. Sem
 Gosto de resolver problemas e criar soluções inovadoras. Ver um código funcionando e otimizando tarefas é o que me faz continuar aprendendo e me dedicando a cada novo projeto.
 
 ### 📫 Como me encontrar?
-- **LinkedIn**: [Seu LinkedIn](#) 
-- **Email**: seuemail@exemplo.com
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/joshua-bertocchi-a35600200/
+- **Email**: joshuabertocchi@gmail.com
 
 ### 🌱 Estou aberto a…
 - Colaborações em projetos interessantes.
